@@ -21,12 +21,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "prof.png"
   name             : "Zhen Li/ 栗珍"
   pronouns         : # example: "she/her"  
-  bio              : "西安科技大学 计算机科学与技术学院（Xi’an University of Science and Technology, College of Computer Science and Technology）"
+  bio              : "Xi’an University of Science and Technology, College of Computer Science and Technology/ 西安科技大学 计算机科学与技术学院"
   location         : "China"
-  employer         : "Xi’an University of Science and Technology"
+  #employer         : "Xi’an University of Science and Technology"
   uri              : # URL
   email            : "zhenlimath@163.com" 
 
